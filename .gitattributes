@@ -1,2 +1,2 @@
-*.twb linguist-language=Tableau
-*.twbx linguist-language=Tableau
+*.twb linguist-detectable=true
+*.twbx linguist-detectable=true
